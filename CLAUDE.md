@@ -18,3 +18,9 @@ This is a content repository for the **同济徒步群 (Tongji Hiking Group)**. 
 - Image paths in Markdown use backslash separators (Windows-style, e.g., `img\莫厘峰-01.jpg`)
 - Photos are numbered sequentially (e.g., `莫厘峰-01.jpg`, `莫厘峰-02.jpg`)
 - Commit messages are in Chinese
+
+## Writing & Editing Guidelines
+
+- When polishing trip records, preserve the author's personal voice and humor
+- Before writing descriptions for photos, **read the actual image file first** to ensure text matches the photo content
+- Keep prose style casual and vivid — these are personal hiking blogs, not formal articles
